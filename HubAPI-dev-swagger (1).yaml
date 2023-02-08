@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  description: "Invoke a LAMBDA or PASSTHROUGH"
+  description: "Invoke a LAMBDA or PASSTHROUGH test"
   version: "2023-02-02T16:06:06Z"
   title: "HubAPI"
 host: "0whdcbar3m.execute-api.us-east-1.amazonaws.com"
